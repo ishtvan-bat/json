@@ -1,17 +1,11 @@
-[
-  {
-    "usage": {
-      "date": "2018/01/29",
-      "apps": [
-        {
-          "app": {
-            "name": "Safari.app",
-            "version": 11,
-            "foreground": 45,
-            "open": 150
-          }
-        }
-      ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
