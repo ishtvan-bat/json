@@ -13,12 +13,12 @@
         }
       ]
     },
-    {
-      "date": "2018/01/29",
+    "usage": {
+      "date": "2020/02/29",
       "apps": [
         {
           "app": {
-            "name": "Safari.app",
+            "name": "Console.app",
             "version": 11,
             "foreground": 45,
             "open": 150
