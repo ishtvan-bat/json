@@ -5,20 +5,38 @@
       "apps": [
         {
           "app": {
-            "name": "Safari.app",
+            "name": "First.app",
+            "version": 11,
+            "foreground": 45,
+            "open": 150
+          }
+        },
+        {
+          "app": {
+            "name": "Second.app",
             "version": 11,
             "foreground": 45,
             "open": 150
           }
         }
       ]
-    },
+    }
+  },
+  {
     "usage": {
-      "date": "2020/02/29",
+      "date": "2020/01/29",
       "apps": [
         {
           "app": {
-            "name": "Console.app",
+            "name": "Third.app",
+            "version": 11,
+            "foreground": 45,
+            "open": 150
+          }
+        },
+        {
+          "app": {
+            "name": "Fourth.app",
             "version": 11,
             "foreground": 45,
             "open": 150
